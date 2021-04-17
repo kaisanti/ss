@@ -4,7 +4,7 @@ class Messages:
         "ongoing processes, then this process will only start after one of them finishes."
     )
     MEDIA_MESSAGE_DELETED = "Why did you delete the file 😠, Now i cannot help you 😒."
-    CANNOT_OPEN_FILE = "😟 Sorry! I cannot open the file."
+    CANNOT_OPEN_FILE = "😟 Sorry! Direct link only."
     PROCESS_TIMEOUT = (
         "😟 Sorry! process failed due to timeout. Your process was "
         "taking too long to complete, hence cancelled."
